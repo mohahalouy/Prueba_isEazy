@@ -76,11 +76,10 @@ header > svg {
 
 .chat-conversation {
   padding: 50px;
-  padding-bottom: 0;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  height: calc(100% - 110px);
+  height: calc(100% - 160px);
   overflow-y: auto;
 }
 
