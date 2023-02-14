@@ -76,6 +76,8 @@ header > svg {
 
 .chat-conversation {
   padding: 50px;
+  padding-bottom: 0;
+  margin-bottom: 50px;
   display: flex;
   flex-direction: column;
   gap: 20px;
