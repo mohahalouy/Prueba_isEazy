@@ -44,7 +44,7 @@ export default {
   left: 0;
   background-color: #fff;
   width: 100%;
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   border-radius: 10px;
